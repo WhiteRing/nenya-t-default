@@ -1,0 +1,11 @@
+{
+  "id": "FooterContainer",
+  "tag": "footer",
+  "sections": [{
+    "id": "FooterSection",
+    "modules": {
+      "disclamer": {"id": "ModFooter"}
+    }
+  }]
+}
+  

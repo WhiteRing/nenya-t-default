@@ -1,0 +1,22 @@
+{
+  "id": "HeaderContainer",
+  "tag": "header",
+  "sections": [
+    {
+      "id": "LogoSection",
+      "sizes": {
+        "sm": "1/3"
+      },
+      "modules": {
+        "branding": {"id": "ModBranding"}
+      }
+    },
+    {
+      "id": "MenuSection",
+      "sizes": {"sm": "2/3"},
+      "modules": {
+        "menu": {"id": "ModMenu"}
+      }            
+    }
+  ]
+}

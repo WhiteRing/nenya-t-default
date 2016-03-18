@@ -1,0 +1,20 @@
+{
+  "layout": {
+    "containers": [
+      { "import": "header" },
+      {
+        "id": "ContentContainer",
+        "tag": "main",
+        "sections": [
+          {
+            "id": "ContentSection",
+            "modules": {
+              "error": {"id": "ModError"}
+            }
+          }
+        ]
+      },
+      { "import": "footer" }
+    ]
+  }
+}
